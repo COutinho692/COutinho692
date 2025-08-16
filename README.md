@@ -16,10 +16,10 @@ Olá! Seja bem-vindo(a) ao meu perfil do GitHub. Aqui você encontrará projetos
 
 | Linguagens | Frameworks / Ferramentas | Outros |
 |-----------|---------------------------|--------|
-| Python 🐍 | Flask, Django              | Git & GitHub |
-| JavaScript ⚡ | React, Node.js            | REST APIs |
-| HTML & CSS 🌐 | Bootstrap, Tailwind CSS   | SQL & NoSQL |
-| Java ☕ | Spring Boot                 | Docker, Linux |
+| Python  |
+| JavaScript |  
+| HTML & CSS  |
+| Java  |
 
 ---
 
