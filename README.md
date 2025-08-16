@@ -23,19 +23,9 @@ Olá! Seja bem-vindo(a) ao meu perfil do GitHub. Aqui você encontrará projetos
 
 ---
 
-## 📁 Repositórios em destaque
-
-- [**Projeto Exemplo**]: Pequeno sistema de cadastro feito com Python e Flask.
-- [**Portfólio Web**]: Meu portfólio pessoal com projetos e contato.
-- [**Anotações de Estudo**]: Resumos e anotações de cursos e estudos em tecnologia.
-
----
-
 ## 📫 Como me encontrar
 
-- Email: [seuemail@exemplo.com](mailto:caio.coutinho@edu.unifil.br)
-- LinkedIn:
-- Blog ou Site Pessoal:
+- Email: [caio.coutinho@edu.unifil.br](mailto:caio.coutinho@edu.unifil.br)
 ---
 
 ## ❤️ Contribuições
