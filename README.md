@@ -13,8 +13,8 @@ Olá! Seja bem-vindo(a) ao meu perfil do GitHub. Aqui você encontrará projetos
 
 ##  Tecnologias que estou estudando ou utilizando
 
-| Linguagens | Frameworks / Ferramentas | Outros |
-|-----------|---------------------------|--------|
+| Linguagens |
+|-----------|
 | Python  |
 | JavaScript |  
 | HTML & CSS  |
