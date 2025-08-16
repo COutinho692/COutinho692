@@ -34,8 +34,8 @@ Olá! Seja bem-vindo(a) ao meu perfil do GitHub. Aqui você encontrará projetos
 ## 📫 Como me encontrar
 
 - Email: [seuemail@exemplo.com](mailto:caio.coutinho@edu.unifil.br)
-- LinkedIn: [linkedin.com/in/seunome]
-- Blog ou Site Pessoal: [seusite.com]
+- LinkedIn:
+- Blog ou Site Pessoal:
 ---
 
 ## ❤️ Contribuições
