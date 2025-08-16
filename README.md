@@ -25,18 +25,17 @@ Olá! Seja bem-vindo(a) ao meu perfil do GitHub. Aqui você encontrará projetos
 
 ## 📁 Repositórios em destaque
 
-- [**Projeto Exemplo**](https://github.com/seuusuario/repositorio): Pequeno sistema de cadastro feito com Python e Flask.
-- [**Portfólio Web**](https://github.com/seuusuario/portfolio): Meu portfólio pessoal com projetos e contato.
-- [**Anotações de Estudo**](https://github.com/seuusuario/anotacoes-programacao): Resumos e anotações de cursos e estudos em tecnologia.
+- [**Projeto Exemplo**]: Pequeno sistema de cadastro feito com Python e Flask.
+- [**Portfólio Web**]: Meu portfólio pessoal com projetos e contato.
+- [**Anotações de Estudo**]: Resumos e anotações de cursos e estudos em tecnologia.
 
 ---
 
 ## 📫 Como me encontrar
 
-- Email: [seuemail@exemplo.com](mailto:seuemail@exemplo.com)
-- LinkedIn: [linkedin.com/in/seunome](https://linkedin.com/in/seunome)
-- Blog ou Site Pessoal: [seusite.com](https://seusite.com)
-
+- Email: [seuemail@exemplo.com](mailto:caio.coutinho@edu.unifil.br)
+- LinkedIn: [linkedin.com/in/seunome]
+- Blog ou Site Pessoal: [seusite.com]
 ---
 
 ## ❤️ Contribuições
@@ -44,6 +43,4 @@ Olá! Seja bem-vindo(a) ao meu perfil do GitHub. Aqui você encontrará projetos
 Sinta-se à vontade para abrir issues, enviar pull requests ou apenas dar uma ⭐ nos repositórios que achar interessante. Toda forma de apoio é bem-vinda!
 
 ---
-
-**Obrigado pela visita! 😄**
 
